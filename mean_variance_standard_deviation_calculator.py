@@ -49,4 +49,4 @@ def calculate(a):
             'sum' : [sum1, sum2, sum_of_elements]
             }
         
-calculate([0, 1, 2, 3, 4, 5, 6, 7])
+
