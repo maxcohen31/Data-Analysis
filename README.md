@@ -1,6 +1,6 @@
 # Data-Analysis
 
-## Mean-Variance-Standard deviation calculator
+# Mean-Variance-Standard deviation calculator
 
 ### Assignment
 
