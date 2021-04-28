@@ -79,6 +79,9 @@ Copy your project's URL and submit it to freeCodeCamp.
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
+
+# Medical Data visualizer
+
 ### Assignment
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
@@ -88,7 +91,7 @@ In this project, you will visualize and make calculations from medical examinati
 The rows in the dataset represent patiets and the columns represent information like body measurements, results from various blood tests, and lifestyle choices. You will use the dataset to exploring the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.
 
 File name: medical_examination.csv
-```
+
 
 | Feature | Variable Type | Variable      | Value Type |
 |:-------:|:------------:|:-------------:|:----------:|
@@ -104,7 +107,7 @@ File name: medical_examination.csv
 | Alcohol intake | Subjective Feature | alco | binary |
 | Physical activity | Subjective Feature | active | binary |
 | Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
-```
+
 
 #### Tasks
 
